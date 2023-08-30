@@ -1,0 +1,9 @@
+pattern4 1624
+pattern5 7152
+pattern6 26016
+pattern7 72912
+pattern8 140704
+pattern9 140704
+
+12 1
+13 2
